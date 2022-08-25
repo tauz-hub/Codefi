@@ -8,7 +8,6 @@ Um bot criado pela [Comunidade Ballerini](https://discord.gg/wagxzStdcR) para vo
 - [Node.js](https://nodejs.org/en/)
 - [Discord.js](https://discord.js.org/#/)
 - [ytdl-core](https://www.npmjs.com/package/ytdl-core)
-- 
 
 ## Como adicionar o Codefi no seu servidor? 🎧▶
 
