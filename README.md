@@ -53,6 +53,6 @@ npm run dev
 
 ## Notas finais e Copyright ©️
 
-Atualmente usamos a live do canal [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) para reproduzir a música usada. Não temos fins lucrativos pois o bot é totalmente público e mantido em um servidor particular que não recebe nenhum tipo de verba ou algo do tipo, sendo este um projeto 100% de entretenimento na plataforma discord que busca apenas contribuir para a comunidade
+Atualmente usamos a live do canal [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) para reproduzir a música usada. Não temos fins lucrativos pois o bot é totalmente público e mantido em um servidor particular que não recebe nenhum tipo de verba ou algo do tipo. Este um projeto 100% de entretenimento na plataforma discord que busca apenas contribuir para a comunidade
 
 ### Desde já agradecemos qualquer contribuição! ❤
